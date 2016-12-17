@@ -1,0 +1,221 @@
+﻿ .fixed {
+    position:fixed;
+    top:0;
+    margin:auto;
+}
+        html {
+         overflow-x: hidden;  
+        width:100%;
+        height: auto;
+        }
+        body {
+            font-family: Microsoft YaHei Light,Bad Script,Courier New, Courier, monospace;
+            font-size:12px; 
+            background-size: cover;
+            padding: 0;
+            margin: 0;
+        }
+       h1 {
+            
+       }
+         h2 {
+            font-size:200%;
+            text-align:center;
+            text-transform:uppercase;
+        }
+        .all {
+             background: rgba(255, 255, 255, 0.85) url('/img/105.jpg') top center no-repeat;
+            background-size: cover;
+            width: 100%;
+            padding: 0;
+            padding-bottom: 20px;
+            
+        }
+        .menu {
+            
+        -webkit-box-shadow: 0px 6px 6px -4px rgba(0,0,0,0.2);
+        -moz-box-shadow: 0px 6px 6px -4px rgba(0,0,0,0.2);
+        box-shadow: 0px 6px 6px -4px rgba(0,0,0,0.2);
+          width:100%;
+          background: white;
+          margin: auto; 
+        }
+        #header {
+           margin: 30px auto auto;
+           width: 78%;         
+           background-color:rgba(255, 255, 255, 0.85);
+           border: solid 6px rgba(255, 255, 255, 1);
+           background-clip: content-box;
+           padding: 6px;
+        }
+        .about {
+             
+            margin: 30px auto auto;
+            width:78%;
+            background-color:rgba(255, 255, 255, 0.85); 
+            border: solid 6px rgba(255, 255, 255,1); 
+            background-clip: content-box;
+            padding: 6px;
+        }
+         .app {
+            
+            margin: 50px auto auto;
+            width: 78%;
+            height: auto;
+            overflow:hidden;
+             background-color:rgba(255, 255, 255, 0.85);
+           border: solid 6px rgba(255, 255, 255, 1);
+           background-clip: content-box;
+           padding: 6px;
+        }
+        .house {
+               background: rgba(255, 255, 255, 0.85) url('/img/house.png') left center no-repeat;
+               background-size: 40% 100%;
+               padding:2em;
+        }
+
+        p {
+            font-size:19px;
+            color: #2B2B2B;
+            width: 100%;
+            margin:auto;
+        }
+        #weather {
+            height:auto;
+            width:100%;
+        }
+        .application {
+           float:right;
+            width:50%;
+           margin: 0% auto auto;
+}
+        .api {
+           float:left;
+            width:27%;
+           height: 172px;
+           margin:5% 15% auto;
+        }
+        
+           #cir {
+            width: 50%;
+        }
+           #cir2 {
+               width: 50%;
+           }
+         #pp1{
+            text-align:center;
+            font-size: 50px;
+            color:#2B2B2B;
+        }
+        p.Ourteam {
+            text-align: center;
+            color:  #2B2B2B;
+            font-size: 50px;
+            
+        }     
+       .drop {
+                border: solid 3px #2B2B2B;
+            }
+        div#about {
+            height: 300px;
+            width: 300px;
+            float: right;
+            margin: -400px 10% auto;
+            background: rgba(0, 0, 0, 0.3);
+        }
+
+        .p1, .p2, .p3, .p4 {
+         width: 60%;
+         height:126px;
+         margin:auto;
+         padding: 10px 20%;
+          
+        }
+        .img1, .img2, .img3, .img4 {
+            border: solid 2px whitesmoke;
+            border-radius: 50%;
+            margin:auto;
+            float:left
+        }
+         .img1:hover {
+             border: solid 2px #699FAE;
+         }
+         .img2:hover {
+             border: solid 2px #699FAE;
+         }
+         .img3:hover {
+             border: solid 2px #699FAE;
+         }
+         .img4:hover {
+             border: solid 2px #699FAE;
+         }
+        #name1, #name2, #name3,#name4 {
+           text-align:center;
+          
+        }
+        ul {
+            list-style:none;
+            width: 367px;          
+            margin:auto;
+            height: 43px;
+            }
+      nav {
+            margin: auto;
+            list-style: none;
+
+        }
+        
+        li {
+            margin:auto;
+            float: left;
+           padding: 10px;
+            width: 100px;
+        }
+        a {
+            
+            text-decoration: none;
+            display: block;                    
+            color: #2B2B2B;
+            font-family: Microsoft YaHei Light, Bad Script,Courier New, Courier, monospace;
+            font-size: 15px;
+            width: auto;
+        }
+
+
+        .fetch,
+        .button,
+        .inputnumbers {
+            border: 1px Solid #699FAE;
+    margin: 0 auto 20px;
+    width:98%;
+            height: 22px;
+            padding:3px;
+        }
+        .button {
+            margin:auto;
+            min-height:30px;
+        }
+         .inputnumbers1 {
+                border: 1px Solid #699FAE;
+    margin: 0 auto 20px;
+width:99%;
+                height: 30px;
+                padding:3px;
+         }
+         p#name, p#temp,p#humidity {
+             font-size:20px;
+             color:black;
+         }
+         .result {
+             margin-top:15px;
+             color: #3d699a;
+             font-size: 20px;
+             font-weight:700;
+         }
+         #Message12, #Message122 {
+             color:red;
+             font-size: 12px;
+         }
+         .meme {
+             text-align:center;
+         }

@@ -1,0 +1,54 @@
+c:\users\buigia\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+c:\users\buigia\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\buigia\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\buigia\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+c:\users\buigia\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\buigia\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Eugenii\Desktop\Study\ICT\latest\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Eugenii\Desktop\Study\ICT\latest\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Eugenii\Desktop\Study\ICT\latest\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Eugenii\Desktop\Study\ICT\latest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Eugenii\Desktop\Study\ICT\latest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Eugenii\Desktop\Study\ICT\latest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\dell 5558\Desktop\latest\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\dell 5558\Desktop\latest\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\dell 5558\Desktop\latest\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\dell 5558\Desktop\latest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\dell 5558\Desktop\latest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\dell 5558\Desktop\latest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\dell 5558\Desktop\study\web technologies\latest\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\dell 5558\Desktop\study\web technologies\latest\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\dell 5558\Desktop\study\web technologies\latest\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\dell 5558\Desktop\study\web technologies\latest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\dell 5558\Desktop\study\web technologies\latest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\dell 5558\Desktop\study\web technologies\latest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\buigia\Desktop\latest\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\buigia\Desktop\latest\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\buigia\Desktop\latest\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\buigia\Desktop\latest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\buigia\Desktop\latest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\buigia\Desktop\latest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\sverevge\Downloads\latestteame3\latest\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\sverevge\Downloads\latestteame3\latest\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\sverevge\Downloads\latestteame3\latest\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\sverevge\Downloads\latestteame3\latest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\sverevge\Downloads\latestteame3\latest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\sverevge\Downloads\latestteame3\latest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Eugenii\Desktop\Study\ICT\13.04-ICT-latest\latest\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Eugenii\Desktop\Study\ICT\13.04-ICT-latest\latest\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Eugenii\Desktop\Study\ICT\13.04-ICT-latest\latest\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Eugenii\Desktop\Study\ICT\13.04-ICT-latest\latest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Eugenii\Desktop\Study\ICT\13.04-ICT-latest\latest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Eugenii\Desktop\Study\ICT\13.04-ICT-latest\latest\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\dell 5558\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\dell 5558\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\dell 5558\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\dell 5558\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\dell 5558\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\dell 5558\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\dell 5558\Desktop\30-4(the latest of latest latest latest) green ict\30-4(the latest of latest latest latest) green ict\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\dell 5558\Desktop\30-4(the latest of latest latest latest) green ict\30-4(the latest of latest latest latest) green ict\WebApplication1\bin\WebApplication1.dll
+C:\Users\dell 5558\Desktop\30-4(the latest of latest latest latest) green ict\30-4(the latest of latest latest latest) green ict\WebApplication1\bin\WebApplication1.pdb
+C:\Users\dell 5558\Desktop\30-4(the latest of latest latest latest) green ict\30-4(the latest of latest latest latest) green ict\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\dell 5558\Desktop\30-4(the latest of latest latest latest) green ict\30-4(the latest of latest latest latest) green ict\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\dell 5558\Desktop\30-4(the latest of latest latest latest) green ict\30-4(the latest of latest latest latest) green ict\WebApplication1\obj\Debug\WebApplication1.pdb
